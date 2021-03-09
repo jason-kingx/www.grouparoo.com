@@ -83,6 +83,13 @@ const DocsNav: NavItem[] = [
     ],
   },
 
+  // -- Plugins --
+  {
+    title: "Plugins",
+    path: "/docs/plugins",
+    children: [],
+  },
+
   // -- Development --
   {
     title: "Development",
